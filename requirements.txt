@@ -1,0 +1,9 @@
+# !pip install pafy youtube-dl moviepy
+opencv-python
+tensorflow
+matplotlib
+scikit-learn
+scipy
+pydot
+albumentations==1.1.0
+pandas
