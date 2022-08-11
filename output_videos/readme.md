@@ -1,1 +1,1 @@
-# Dump your output videos here
+# Your output videos will be saved here
