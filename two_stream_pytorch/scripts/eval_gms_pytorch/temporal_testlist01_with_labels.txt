@@ -1,0 +1,15 @@
+/datasets/gms_frames/baggage_handling/baggage_handling_29 0
+/datasets/gms_frames/baggage_handling/baggage_handling_127 0
+/datasets/gms_frames/baggage_handling/baggage_handling_12 0
+/datasets/gms_frames/baggage_handling/baggage_handling_26 0
+/datasets/gms_frames/baggage_handling/baggage_handling_22 0
+/datasets/gms_frames/bridge_connecting/bridge_connecting_78 1
+/datasets/gms_frames/bridge_connecting/bridge_connecting_41 1
+/datasets/gms_frames/bridge_connecting/bridge_connecting_53 1
+/datasets/gms_frames/bridge_connecting/bridge_connecting_9 1
+/datasets/gms_frames/bridge_connecting/bridge_connecting_71 1
+/datasets/gms_frames/misclaneous/misclaneous_115 2
+/datasets/gms_frames/misclaneous/misclaneous_28 2
+/datasets/gms_frames/misclaneous/misclaneous_13 2
+/datasets/gms_frames/misclaneous/misclaneous_105 2
+/datasets/gms_frames/misclaneous/misclaneous_129 2

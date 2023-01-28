@@ -1,0 +1,15 @@
+/datasets/gms_frames/baggage_handling/baggage_handling_29 0
+/datasets/gms_frames/baggage_handling/baggage_handling_127 0
+/datasets/gms_frames/baggage_handling/baggage_handling_12 0
+/datasets/gms_frames/baggage_handling/baggage_handling_26 0
+/datasets/gms_frames/baggage_handling/baggage_handling_22 0
+/datasets/gms_frames/baggage_handling/baggage_handling_69 0
+/datasets/gms_frames/baggage_handling/baggage_handling_82 0
+/datasets/gms_frames/baggage_handling/baggage_handling_88 0
+/datasets/gms_frames/baggage_handling/baggage_handling_18 0
+/datasets/gms_frames/baggage_handling/baggage_handling_103 0
+/datasets/gms_frames/baggage_handling/baggage_handling_100 0
+/datasets/gms_frames/baggage_handling/baggage_handling_72 0
+/datasets/gms_frames/baggage_handling/baggage_handling_87 0
+/datasets/gms_frames/baggage_handling/baggage_handling_38 0
+/datasets/gms_frames/baggage_handling/baggage_handling_9 0

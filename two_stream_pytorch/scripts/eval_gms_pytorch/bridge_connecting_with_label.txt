@@ -1,0 +1,15 @@
+/datasets/gms_frames/bridge_connecting/bridge_connecting_78 1
+/datasets/gms_frames/bridge_connecting/bridge_connecting_41 1
+/datasets/gms_frames/bridge_connecting/bridge_connecting_53 1
+/datasets/gms_frames/bridge_connecting/bridge_connecting_9 1
+/datasets/gms_frames/bridge_connecting/bridge_connecting_71 1
+/datasets/gms_frames/bridge_connecting/bridge_connecting_114 1
+/datasets/gms_frames/bridge_connecting/bridge_connecting_70 1
+/datasets/gms_frames/bridge_connecting/bridge_connecting_11 1
+/datasets/gms_frames/bridge_connecting/bridge_connecting_124 1
+/datasets/gms_frames/bridge_connecting/bridge_connecting_37 1
+/datasets/gms_frames/bridge_connecting/bridge_connecting_116 1
+/datasets/gms_frames/bridge_connecting/bridge_connecting_63 1
+/datasets/gms_frames/bridge_connecting/bridge_connecting_51 1
+/datasets/gms_frames/bridge_connecting/bridge_connecting_119 1
+/datasets/gms_frames/bridge_connecting/bridge_connecting_1 1
